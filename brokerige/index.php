@@ -130,7 +130,7 @@
             </div>
             <div class="full-width text-right cc-content">
                 <div class="full-width cont-line-1">
-                    10 октября, <span>19.00 (Мск)</span>
+                    10 октября, <span>19.00 (мск)</span>
                 </div>
                 <div class="full-width cont-line-2">
                     Бесплатный мастер-класс
@@ -308,7 +308,7 @@
         </div>
 
         <div class="full-width quest-sub-title">
-            10 октября, 19.00 (Мск)
+            10 октября, 19.00 (мск)
         </div>
 
         <div class="quest-form-container">
@@ -395,7 +395,7 @@
                 пошаговый бизнес–план
             </div>
             <div class="full-width bonus-bottom-max">
-                Старт 10 октября, 19.00 (Мск)
+                Старт 10 октября, 19.00 (мск)
             </div>
         </div>
     </div>
