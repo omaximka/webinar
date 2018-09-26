@@ -388,11 +388,11 @@
                 <div class="clearfix"></div>
                 -->
                 <div class="full-width r-context text-center">
-                    Регистрируйся сейчас и получи
+                    Регистрируйся сейчас и получи 1
                 </div>
             </div>
             <div class="full-width bonus-bottom-middle">
-                пошаговый бизнес–план
+                пошаговый бизнес–план 1
             </div>
             <div class="full-width bonus-bottom-max">
                 Старт 10 октября, 19.00 (Мск)
