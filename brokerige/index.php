@@ -388,7 +388,7 @@
                 <div class="clearfix"></div>
                 -->
                 <div class="full-width r-context text-center">
-                    Регистрируйся сейчас и получи 1
+                    Регистрируйся сейчас и получи
                 </div>
             </div>
             <div class="full-width bonus-bottom-middle">
