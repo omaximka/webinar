@@ -1,0 +1,40 @@
+
+.footer-container {
+    margin-top: -200px;
+    padding-bottom: 80px;
+    background: url('../images/footer/bg-footer.png') no-repeat;
+    background-size: cover !important;
+    background-position: 50% 50% !important;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-container .form-footer-block { display: block; max-width: 540px; margin: 0 auto; padding-top: 200px; }
+
+.footer-container .form-footer-block .ff-title { margin-top: 80px; font-size: 30px; color: #ffffff; text-transform: uppercase; text-align: center; }
+
+.footer-container .form-footer-block .in-form-block { margin-top: 40px; }
+
+.footer-container .form-footer-block .in-form-block .ff-item { margin: 30px 0; }
+
+.footer-container .form-footer-block .in-form-block .ff-item .in-form { padding: 10px 30px; background: none; font-size: 20px; color: #ffffff; border: 2px solid #ffffff; border-radius: 40px; }
+
+.footer-container .form-footer-block .in-form-block .ff-item.error .in-form { border: 2px solid #ff0000; }
+
+.footer-container .form-footer-block .button-block { margin-top: 40px; text-align: center; }
+
+.footer-container .form-footer-block .button-block .footer-btn { display: inline-block; vertical-align: top; padding: 17px 104px; background: #EB5757; font-size: 20px; color: #ffffff; border: 0; border-radius: 40px; }
+
+.footer-container .form-footer-block .button-block .footer-btn:hover { background: #a84545; }
+
+/**/
+
+.footer-bottom { background: #000000; padding: 30px 0 30px 0; position: relative; }
+
+.footer-bottom .footer-max { display: block; width: 1200px; margin: 0 auto; font-size: 16px; color: #ffffff; }
+
+.footer-bottom .footer-max .ff-icon { margin-right: 30px; }
+
+.footer-bottom .footer-max .ff-context { display: inline-block; vertical-align: middle; padding-top: 8px; }
+
+.footer-bottom .footer-max .ff-context .f-copy { position: relative; left:0; top: 0; }

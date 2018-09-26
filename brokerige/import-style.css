@@ -1,0 +1,19 @@
+/* MAIN */
+
+    @import url("style/management.css");
+
+/*/MAIN/*/
+
+/* SECTION */
+
+    @import url("style/start-container.css");
+    @import url("style/free-say-container.css");
+    @import url("style/quest-block.css");
+
+/*/SECTION/*/
+
+/* FOOTER */
+
+    @import url("style/footer.css");
+
+/*/FOOTER/*/

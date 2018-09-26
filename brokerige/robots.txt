@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /thankyou/
+Host: webinar.rbs-24.ru

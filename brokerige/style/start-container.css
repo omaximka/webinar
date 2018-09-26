@@ -1,0 +1,34 @@
+
+.start-container { padding: 60px 0 120px 0; overflow: hidden; background: url('../images/start-background/background.png') no-repeat; background-size: cover !important; background-position: 50% 50% !important; position: relative; }
+
+.start-container .container-content { position: relative; }
+
+.start-container .container-content .cc-photo { display: inline-block; vertical-align: top; position: absolute; left: 146px; top: 56px; z-index: 1; }
+
+.start-container .container-content .cc-content { position: relative; z-index: 2; }
+
+.start-container .container-content .cc-content .cont-line-1 { font-size: 50px; color: #ffffff; font-weight: 700; }
+.start-container .container-content .cc-content .cont-line-1 span { color: #EB5757; }
+
+.start-container .container-content .cc-content .cont-line-2 { margin: 20px 0; font-size: 36px; color: #E0E0E0; font-weight: 300; }
+
+.start-container .container-content .cc-content .cont-line-3 { font-size: 64px; color: #ffffff; font-weight: bold; line-height: 70px; letter-spacing: 1px; }
+
+.start-container .container-content .cc-content .cont-line-4 { margin: 20px 0; font-size: 34px; color: #ffffff; font-weight: 300; }
+
+/**/
+
+.write-free-block { margin-top: 90px; }
+
+.write-free-block .wf-max { display: block; max-width: 1200px; margin: 0 auto; padding: 30px 0 40px 0; background: #ffffff; text-align: center; border: 3px solid #F8F5F5; box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25); }
+
+.write-free-block .wf-max .wf-ttl { margin: 6px 0; font-size: 40px; color: #000000; font-weight: bold; }
+
+.write-free-block .wf-max .wf-cont { margin: 6px 0; font-size: 36px; color: #EB5757; font-weight: bold; text-transform: uppercase; }
+
+.write-free-block .wf-max .wf-btn-block { margin-top: 30px; }
+
+.write-free-block .wf-max .wf-btn-block .wf-button { display: inline-block; vertical-align: top; padding: 20px 60px; background: #EB5757; font-size: 20px; color: #ffffff; border-radius: 50px; cursor: pointer; }
+.write-free-block .wf-max .wf-btn-block .wf-button:hover { background: #b84c4c; }
+
+

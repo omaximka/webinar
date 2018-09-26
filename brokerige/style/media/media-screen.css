@@ -1,0 +1,210 @@
+
+@media screen and (max-width: 1600px) {
+
+    .max-width { max-width: 1200px; }
+
+    /**/
+
+
+
+}
+
+@media screen and (max-width: 1250px) {
+
+    .max-width { max-width: 920px; }
+
+    /**/
+
+    .write-free-block .wf-max { max-width: 100%; }
+
+    /**/
+
+    .start-container { padding: 50px 0 120px 0; }
+
+    .start-container .container-content .cc-content .cont-line-1 { font-size: 40px; }
+    .start-container .container-content .cc-content .cont-line-2 { font-size: 26px; }
+    .start-container .container-content .cc-content .cont-line-3 { font-size: 44px; line-height: 54px; }
+    .start-container .container-content .cc-content .cont-line-4 { font-size: 26px; }
+
+    .start-container .container-content .cc-photo { left: 60px; }
+    .start-container .container-content .cc-photo img { width: 376px; }
+
+    .top-bar .t-logo img { width: 108px; }
+
+    .write-free-block .wf-max .wf-ttl { font-size: 30px; }
+    .write-free-block .wf-max .wf-cont { font-size: 28px; }
+
+    .write-free-block { text-align: center; }
+    .write-free-block .wf-max { display: inline-block; vertical-align: top; padding: 30px 40px 40px 40px; }
+
+    .write-free-block .wf-max .wf-btn-block .wf-button { padding: 18px 58px; }
+
+    .free-say-container .fsc-title { font-size: 36px; }
+    .free-say-container .fsc-icons-block .fsc-item-inline .icon-name { font-size: 20px; line-height: 28px; }
+    .free-say-container .fsc-icons-block .fsc-item-inline { margin: 0 0; }
+
+    .free-say-container .fsc-center-content { max-width: 900px; font-size: 30px; }
+
+    .free-say-container .fsc-title-middle { font-size: 30px; }
+
+    .free-say-container .fsc-middle-content { max-width: 900px; font-size: 22px; }
+
+    .free-say-container .fsc-middle-content .fsc-item-middle { padding: 0 80px 0 52px; }
+
+    .quest-container .quest-title { font-size: 30px; line-height: 40px; }
+    .quest-container .quest-sub-title { font-size: 48px; }
+
+    .about-speaker-container .video-block { float: none; width: 100%; text-align: center; }
+    .about-speaker-container .about-context { float: none; width: 100%; margin-top: 30px; }
+
+    .bonus-container .b-block .bonus-title { font-size: 36px; }
+    .bonus-container .b-block .lr-block .r-context { font-size: 32px; }
+
+    .bonus-container .b-block { max-width: 900px; }
+    .bonus-container .b-block .lr-block .l-context img { width: 222px; }
+    .bonus-container .b-block .bonus-bottom-middle { font-size: 32px; }
+
+    .bonus-container .b-block .bonus-bottom-max { font-size: 50px; }
+
+    .footer-bottom { padding: 30px 40px 30px 40px; }
+    .footer-bottom .footer-max { width: 100%; }
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    .max-width { max-width: 700px; }
+
+    /**/
+
+    .start-container .container-content .cc-content .cont-line-3 { text-shadow: 1px 1px 6px #000000; }
+    .start-container .container-content .cc-content .cont-line-4 { text-shadow: 1px 1px 6px #000000; }
+
+    .write-free-block .wf-max { border: 0; box-shadow: none; }
+    .write-free-block { margin-top: 46px; }
+
+    .free-say-container { margin-top: 30px; padding: 60px 0 26px 0; }
+
+    .free-say-container .fsc-title { font-size: 32px; }
+
+    .free-say-container .fsc-icons-block { margin-top: 38px; }
+    .free-say-container .fsc-icons-block .fsc-item-inline { margin: 26px 46px; }
+    .free-say-container .fsc-center-content { margin: 40px auto 0 auto; }
+
+    .free-say-container .fsc-title-middle { padding: 0 80px; }
+
+    .free-say-container .fsc-middle-content { max-width: 730px; }
+
+    .quest-container .quest-title { padding: 0 128px; }
+
+    .bonus-container .b-block .bonus-bottom-max { font-size: 44px; }
+
+    /**/
+
+    .close-pop { right: 0; top: -40px; }
+
+    .pfc-block .pfc-block-cell { padding: 50px 20px; }
+
+    .btn-pop-form { padding: 14px 47px; font-size: 18px; }
+
+    .pop-form-title { font-size: 26px; }
+
+    .pop-form-container .quest-form-item { padding: 0 20px !important; }
+
+    .pop-form-container .personal-data-block { padding: 0 20px !important; }
+
+    .pop-form-container .quest-in-form { padding: 11px 26px; font-size: 18px; }
+
+}
+
+@media screen and (max-width: 760px) {
+
+    .max-width { width: 100%; }
+
+    /**/
+
+    .digits-container { display: none; }
+
+    .start-container .container-content .cc-photo { display: none; }
+
+    .start-container { padding: 140px 0 36px 0; }
+
+    .top-bar .t-logo { text-align: center; }
+    .top-bar .t-logo img { width: auto; }
+
+    .start-container .container-content .cc-content { text-align: center; }
+
+    .start-container .container-content .cc-content .cont-line-1 { font-size: 26px; }
+
+    .about-speaker-container .video-block { padding: 0 0 0 0; text-align: center; }
+    .about-speaker-container .video-block .item-video iframe { width: 310px; height: 173px; }
+
+    .quest-container .quest-title { padding: 0 30px; }
+
+    .bonus-container .b-block .lr-block .l-context { float: none; width: 100%; }
+    .bonus-container .b-block .lr-block .r-context { float: none; width: 100%; }
+
+    .start-container .container-content .cc-content .cont-line-3 { font-size: 30px; line-height: 40px; }
+
+    .start-container .container-content .cc-content .cont-line-4 { font-size: 20px; padding: 0 30px; }
+
+    .write-free-block { margin-top: 10px; }
+    .write-free-block .wf-max { padding: 30px 30px 40px 30px; }
+    .write-free-block .wf-max .wf-ttl { font-size: 22px; }
+    .write-free-block .wf-max .wf-cont { font-size: 22px; }
+
+    .write-free-block .wf-max .wf-btn-block .wf-button { padding: 14px 47px; font-size: 18px; }
+
+    .free-say-container { margin-top: 20px; }
+
+    .free-say-container .fsc-title { font-size: 24px; }
+
+    .free-say-container .fsc-icons-block .fsc-item-inline .icon-name { font-size: 18px; }
+
+    .free-say-container .fsc-icons-block { margin-top: 20px; }
+
+    .free-say-container .fsc-center-content { padding: 18px 20px; font-size: 20px; }
+    .free-say-container .fsc-title-middle { padding: 0 40px; font-size: 24px; }
+
+    .free-say-container .fsc-middle-content .fsc-item-middle { padding: 0 16px 0 16px; }
+    .free-say-container .fsc-middle-content { margin: 60px auto 0 auto; padding: 20px 0; font-size: 18px; }
+
+    .quest-container .quest-title { font-size: 26px; }
+    .quest-container .quest-sub-title { font-size: 46px; }
+
+    .quest-container .quest-form-container { padding: 0 20px; margin: 36px auto 0 auto; }
+
+    .quest-container .quest-form-container .quest-block-button .quest-btn { padding: 16px 62px; font-size: 18px; }
+
+    .quest-container .quest-form-container .quest-form-item .quest-in-form { padding: 11px 26px; font-size: 18px; }
+
+    .quest-container .quest-form-container .quest-form-item { margin: 26px 0; }
+
+    .about-speaker-container .about-context { padding: 0 20px; }
+
+    .bonus-container { margin-top: 40px; }
+
+    .bonus-container .b-block .lr-block .r-context { margin-top: 30px; font-size: 24px; }
+
+    .bonus-container .b-block .bonus-bottom-middle { font-size: 26px; }
+
+    .bonus-container .b-block .bonus-bottom-max { font-size: 30px; }
+
+    .footer-container .form-footer-block .ff-title { font-size: 22px; }
+
+    .footer-container .form-footer-block .in-form-block .ff-item .in-form { font-size: 18px; }
+
+    .footer-container .form-footer-block .in-form-block { padding: 0 18px; }
+    .personal-data-block { padding: 0 18px; }
+
+    .footer-container .form-footer-block .button-block .footer-btn { padding: 14px 66px; font-size: 18px; }
+
+    .footer-bottom .footer-max .ff-context { width: 170px; }
+
+    .footer-bottom { padding: 30px 20px 30px 20px; }
+
+    .free-say-container .fsc-center-content .fsc-center-item .fsc-sp { padding-left: 0; }
+
+
+
+}
