@@ -43,18 +43,18 @@
 
     $body .= "На сайте ".$_SERVER['SERVER_NAME']." была заполнена форма регистрации."."<br><br>";
 
-    $body .= "Событие формы: ".$event_form."<br><br>";
+    $body .= "<b>Событие формы:</b> ".$event_form."<br><br>";
 
-    $body .= "ФИО: ".$name."<br><br>";
+    $body .= "<b>ФИО:</b> ".$name."<br><br>";
 
-    $body .= "Телефон: ".$phone."<br><br>";
+    $body .= "<b>Телефон:</b> ".$phone."<br><br>";
 
-    $body .= "Email: ".$email."<br><br>";
+    $body .= "<b>Email:</b> ".$email."<br><br>";
 
     $header = "Content-type: text/html; charset=\"utf-8\"\r\n";
     $header .= "From: automail@rbs-24.ru\r\n";
 
-    $email_address = "sale@rbs-24.ru";
+    $email_address = "front.igor.m@gmail.com"; /* sale@rbs-24.ru */
 
     $subject = $_SERVER['SERVER_NAME'] . " - Регистрация пользователя";
 
