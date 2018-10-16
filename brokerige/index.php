@@ -136,7 +136,7 @@
                     Бесплатный мастер-класс
                 </div>
                 <div class="full-width cont-line-3" style="color: #EB5757;">
-                    «Как зарабатывать<br>от 300 000 рублей<br>на торговой недвижимости<br>без инвестиций»
+                    «Как заработать<br>от 300 000 рублей<br>на торговой недвижимости<br>без инвестиций»
                 </div>
                 <div class="full-width cont-line-4">
                     2 часа пользы для риелторов,<br>агентов и брокеров!
@@ -282,7 +282,7 @@
             </div>
             <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
-                <div class="fsc-m-name">Чтобы заработать больше надо работать 24/7</div>
+                <div class="fsc-m-name">Чтобы заработать больше, надо работать 24/7</div>
                 <div class="clearfix"></div>
             </div>
         </div>
