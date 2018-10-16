@@ -80,7 +80,7 @@ if ( empty($url) ) { header('Location: /brokerige/'); }
                                         <img src="images/content/rasp.png" alt="" draggable="false">
                                     </div>
                                     <div class="rs-name">
-                                        Дата 10 октября 19.00(мск)
+                                        Дата 19 октября 15.00(мск)
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
