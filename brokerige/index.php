@@ -135,11 +135,11 @@
                 <div class="full-width cont-line-2">
                     Бесплатный мастер-класс
                 </div>
-                <div class="full-width cont-line-3">
+                <div class="full-width cont-line-3" style="color: #EB5757;">
                     «Как зарабатывать<br>от 300 000 рублей<br>на торговой недвижимости<br>без инвестиций»
                 </div>
                 <div class="full-width cont-line-4">
-                    2 часа пользы для риелторов, агентов и брокеров!
+                    2 часа пользы для риелторов,<br>агентов и брокеров!
                 </div>
             </div>
         </div>
@@ -181,11 +181,8 @@
 
     <div class="full-width write-free-block">
         <div class="wf-max">
-            <div class="full-width wf-ttl">
-                Запишись на мастер класс и получи пошаговый
-            </div>
-            <div class="full-width wf-cont">
-                бизнес план
+            <div class="full-width">
+                <img src="images/polygon-1.png" alt="" draggable="false">
             </div>
             <div class="full-width wf-btn-block">
 
@@ -200,7 +197,7 @@
     <div class="full-width free-say-container">
 
         <div class="full-width fsc-title">
-            На мастер-классе вы получите:
+            На бесплатном мастер-классе я расскажу вам:
         </div>
 
         <div class="full-width fsc-icons-block">
@@ -209,7 +206,7 @@
                     <img src="images/free-say/1.png" alt="" draggable="false">
                 </div>
                 <div class="full-width icon-name">
-                    10 шагов по созданию высокого дохода
+                    <b style="font-size: 20px;">10 шагов</b><br>по созданию высокого дохода
                 </div>
             </div>
             <div class="fsc-item-inline">
@@ -217,7 +214,8 @@
                     <img src="images/free-say/2.png" alt="" draggable="false">
                 </div>
                 <div class="full-width icon-name">
-                    5 преимуществ работы с торговой недвижимостью, а не квартирами
+                    <b style="font-size: 20px;">5 преимуществ</b>
+                    <br>работы с торговой недвижимостью, а не квартирами
                 </div>
             </div>
             <div class="fsc-item-inline">
@@ -225,7 +223,8 @@
                     <img src="images/free-say/3.png" alt="" draggable="false">
                 </div>
                 <div class="full-width icon-name">
-                    2 железный аргумента для получения лучших условий от заказчика
+                    <b style="font-size: 20px;">2 железный аргумента</b>
+                    <br>для получения лучших условий от заказчика
                 </div>
             </div>
             <div class="fsc-item-inline">
@@ -233,36 +232,27 @@
                     <img src="images/free-say/4.png" alt="" draggable="false">
                 </div>
                 <div class="full-width icon-name">
-                    100% реальной практики и живых кейсов
+                    <b style="font-size: 20px;">100% реальной практики</b>
+                    <br>и живых кейсов
                 </div>
             </div>
         </div>
 
         <div class="fsc-center-content">
             <div class="full-width fsc-center-item">
-                <span style="padding-bottom: 20px; font-size: 40px; font-weight: 600;">
+                <span style="padding-bottom: 20px; font-size: 36px; font-weight: 600;">
                     После прохождения мастер–класса:
                 </span>
                 <span class="fsc-sp">
-                    •	21% из вас смогут начать свое дело
+                    <img src="images/like.png" alt="" draggable="false" style="margin-right: 12px;"><b style="font-size: 30px;">21%</b> из вас смогут начать свое дело
                 </span>
                 <span class="fsc-sp">
-                    •	на 46% увеличится скорость закрытия сделок
+                    <img src="images/like.png" alt="" draggable="false" style="margin-right: 12px;">на <b style="font-size: 30px;">46%</b> увеличится скорость закрытия сделок
                 </span>
                 <span class="fsc-sp">
-                    •	ты сможешь увеличить свой доход на 50%
+                    <img src="images/like.png" alt="" draggable="false" style="margin-right: 12px;">ты сможешь увеличить свой доход на <b style="font-size: 30px;">50%</b>
                 </span>
             </div>
-            <!--
-            <div class="full-width fsc-center-item">
-                <span>
-                    Прибавь +10% личного обаяния и рвения и получив
-                </span>
-                <span>
-                    2 раза больше закрытых сделок!
-                </span>
-            </div>
-            -->
         </div>
 
         <div class="full-width fsc-title-middle">
@@ -271,27 +261,27 @@
 
         <div class="fsc-middle-content">
             <div class="full-width fsc-item-middle">
-                <div class="fsc-m-num">1.</div>
+                <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">В малых городах не заработать на недвижимости</div>
                 <div class="clearfix"></div>
             </div>
             <div class="full-width fsc-item-middle">
-                <div class="fsc-m-num">2.</div>
+                <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">В рынке торговой недвижимости мало сделок</div>
                 <div class="clearfix"></div>
             </div>
             <div class="full-width fsc-item-middle">
-                <div class="fsc-m-num">3.</div>
+                <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">Новичку не получить крупный заказ</div>
                 <div class="clearfix"></div>
             </div>
             <div class="full-width fsc-item-middle">
-                <div class="fsc-m-num">4.</div>
+                <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">Заказчик не готов платить справедливое вознаграждение</div>
                 <div class="clearfix"></div>
             </div>
             <div class="full-width fsc-item-middle">
-                <div class="fsc-m-num">5.</div>
+                <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">Чтобы заработать больше надо работать 24/7</div>
                 <div class="clearfix"></div>
             </div>

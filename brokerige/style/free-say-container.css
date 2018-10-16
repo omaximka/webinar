@@ -1,7 +1,7 @@
 
-.free-say-container { margin-top: 80px; padding: 60px 0 90px 0; background: #31363f; }
+.free-say-container { margin-top: 80px; padding: 103px 0 90px 0; background: #31363f; }
 
-.free-say-container .fsc-title { font-size: 48px; color: #ffffff; font-weight: 300; text-align: center; }
+.free-say-container .fsc-title { font-size: 36px; color: #ffffff; font-weight: 300; text-align: center; }
 
 .free-say-container .fsc-icons-block { margin-top: 60px; text-align: center; }
 
@@ -9,7 +9,7 @@
 
 .free-say-container .fsc-icons-block .fsc-item-inline .icon-round { display: inline-flex; justify-content: center; align-items: center; width: 130px; height: 130px; background: #ffffff; border-radius: 50%; }
 
-.free-say-container .fsc-icons-block .fsc-item-inline .icon-name { margin-top: 20px; font-size: 24px; color: #ffffff; line-height: 32px; font-weight: 300; }
+.free-say-container .fsc-icons-block .fsc-item-inline .icon-name { margin-top: 20px; font-size: 18px; color: #ffffff; line-height: 32px; font-weight: 300; }
 
 /**/
 
@@ -19,13 +19,13 @@
 
 .free-say-container .fsc-center-content .fsc-center-item span { display: block; width: 100%; }
 
-.free-say-container .fsc-center-content .fsc-center-item .fsc-sp { text-align: left; padding-left: 150px; font-size: 30px; color: #333333; }
+.free-say-container .fsc-center-content .fsc-center-item .fsc-sp { text-align: left; margin: 20px 0; padding-left: 150px; font-size: 30px; color: #333333; }
 
 /**/
 
-.free-say-container .fsc-title-middle { margin-top: 70px; font-family: 'Roboto', sans-serif; font-size: 36px; color: #ffffff; font-weight: 300; text-align: center; }
+.free-say-container .fsc-title-middle { margin-top: 70px; font-family: 'Roboto', sans-serif; font-size: 36px; color: #ffffff; font-weight: bold; text-align: center; }
 
-.free-say-container .fsc-middle-content { display: block; max-width: 1200px; margin: 70px auto 0 auto; padding: 50px 0; background: #ffffff; font-size: 30px; box-shadow: 0 32px 29px rgba(0, 0, 0, 0.25); }
+.free-say-container .fsc-middle-content { display: block; max-width: 1200px; margin: 70px auto 0 auto; padding: 50px 0; background: #ffffff; font-size: 18px; box-shadow: 0 32px 29px rgba(0, 0, 0, 0.25); }
 
 .free-say-container .fsc-middle-content .fsc-item-middle { margin: 20px 0; padding: 0 80px 0 78px; color: #000000; }
 .free-say-container .fsc-middle-content .fsc-item-middle:nth-child(2n) { color: #828282; }
