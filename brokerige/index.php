@@ -215,7 +215,7 @@
                 </div>
                 <div class="full-width icon-name">
                     <b style="font-size: 20px;">5 преимуществ</b>
-                    <br>работы с торговой недвижимостью, а не квартирами
+                    <br>работы с коммерческой недвижимостью, а не квартирами
                 </div>
             </div>
             <div class="fsc-item-inline">
