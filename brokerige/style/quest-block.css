@@ -1,9 +1,9 @@
 
 .quest-container { margin-top: 60px; }
 
-.quest-container .quest-title { font-size: 40px; font-weight: 600; text-align: center; line-height: 50px; }
+.quest-container .quest-title { font-size: 36px; font-weight: 600; text-align: center; line-height: 50px; color: #EB5757; }
 
-.quest-container .quest-sub-title { margin-top: 20px; font-size: 64px; font-weight: 600; color: #282D35; text-align: center; }
+.quest-container .quest-sub-title { margin-top: 20px; font-size: 48px; font-weight: 600; color: #282D35; text-align: center; }
 
 .quest-container .quest-form-container { display: block; max-width: 540px; margin: 60px auto 0 auto; }
 
@@ -15,8 +15,8 @@
 
 .quest-container .quest-form-container .quest-block-button { margin-top: 40px; text-align: center; }
 
-/*.quest-container .quest-form-container .quest-block-button*/ .quest-btn { display: inline-block; vertical-align: top; padding: 22px 100px; background: #EB5757; font-size: 20px; color: #ffffff; cursor: pointer; border: 0; border-radius: 40px; }
-/*.quest-container .quest-form-container .quest-block-button*/ .quest-btn:hover { background: #b64a4a; }
+/*.quest-container .quest-form-container .quest-block-button*/ .quest-btn { display: inline-block; vertical-align: top; padding: 22px 100px; background: #27AE60; font-size: 20px; color: #ffffff; cursor: pointer; border: 0; border-radius: 40px; }
+/*.quest-container .quest-form-container .quest-block-button*/ .quest-btn:hover { background: #1f783c; }
 
 
 

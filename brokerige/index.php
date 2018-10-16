@@ -80,7 +80,7 @@
 
 <body>
 
-<!-- Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter --
 <script type="text/javascript" >
     (function (d, w, c) {
         (w[c] = w[c] || []).push(function() {
@@ -108,7 +108,7 @@
     })(document, window, "yandex_metrika_callbacks2");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/50236393" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+!-- /Yandex.Metrika counter -->
 
 
 <div class="full-width v-preloader-container transit-1000">
@@ -260,31 +260,35 @@
         </div>
 
         <div class="fsc-middle-content">
-            <div class="full-width fsc-item-middle">
+            <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">В малых городах не заработать на недвижимости</div>
                 <div class="clearfix"></div>
             </div>
-            <div class="full-width fsc-item-middle">
+            <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">В рынке торговой недвижимости мало сделок</div>
                 <div class="clearfix"></div>
             </div>
-            <div class="full-width fsc-item-middle">
+            <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">Новичку не получить крупный заказ</div>
                 <div class="clearfix"></div>
             </div>
-            <div class="full-width fsc-item-middle">
+            <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">Заказчик не готов платить справедливое вознаграждение</div>
                 <div class="clearfix"></div>
             </div>
-            <div class="full-width fsc-item-middle">
+            <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
                 <div class="fsc-m-name">Чтобы заработать больше надо работать 24/7</div>
                 <div class="clearfix"></div>
             </div>
+        </div>
+
+        <div class="full-width fsc-title-middle">
+            Обязательно<br>регистрируйся и узнай, почему это не так
         </div>
 
     </div>
@@ -294,7 +298,7 @@
     <div class="full-width quest-container">
 
         <div class="full-width quest-title">
-            и еще у тебя есть возможность задать свой вопрос<br>в режиме онлайн
+            у тебя есть возможность задать свой вопрос<br>в режиме онлайн
         </div>
 
         <div class="full-width quest-sub-title">
@@ -342,10 +346,13 @@
         <div class="max-width">
             <div class="col-xs-6 video-block">
                 <div class="item-video">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jg6NOTpfPFY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <img src="images/photo-1.png" alt="" draggable="false" style="max-width: 560px;">
                 </div>
             </div>
             <div class="col-xs-6 about-context">
+                <p>
+                    <b style="font-size: 26px;">Иван Чернышов</b>
+                </p>
                 <p>
                     - профессиональный брокер торговой недвижимости с опытом 8 лет
                 </p>
@@ -364,28 +371,32 @@
 
     <div class="full-width bonus-container">
         <div class="b-block">
-            <div class="full-width bonus-title">
-                Бонус:
-            </div>
+
             <div class="full-width lr-block">
-                <!--
+
                 <div class="col-xs-5 no-pad l-context">
-                    <img src="images/bonus/book.png" alt="" draggable="false">
+                    <img src="images/bonus/book-2.png" alt="" draggable="false">
                 </div>
                 <div class="col-xs-7 no-pad r-context">
-                    После прохождения вебинара мы вышлем список настольных книг брокера
+
+                    <div class="full-width bonus-title">
+                        Бонус:
+                    </div>
+
+                    <div class="full-width" style="margin-top: 20px;">
+                        Регистрируйся сейчас и получи
+                    </div>
+
+                    <div class="full-width" style="margin-top: 20px;">
+                        пошаговый бизнес–план
+                    </div>
+
+                    <div class="full-width" style="margin-top: 20px; color: #EB5757;">
+                        Старт 10 октября, 19.00 (мск)
+                    </div>
+
                 </div>
                 <div class="clearfix"></div>
-                -->
-                <div class="full-width r-context text-center">
-                    Регистрируйся сейчас и получи
-                </div>
-            </div>
-            <div class="full-width bonus-bottom-middle">
-                пошаговый бизнес–план
-            </div>
-            <div class="full-width bonus-bottom-max">
-                Старт 10 октября, 19.00 (мск)
             </div>
         </div>
     </div>

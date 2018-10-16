@@ -64,7 +64,7 @@ if ( empty($url) ) { header('Location: /brokerige/'); }
                     <div class="full-width middle-content">
 
                         <div class="video-block">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/Jg6NOTpfPFY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            <img src="../images/photo-1.png" alt="" draggable="false" style="height: 314px;">
                         </div>
 
                         <div class="video-r-block">
