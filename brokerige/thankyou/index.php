@@ -57,7 +57,7 @@ if ( empty($url) ) { header('Location: /brokerige/'); }
                 <div class="full-width thank-content">
 
                     <div class="full-width top-text">
-                        <p>Благодарим Вас за регистрацию на бесплатном вебинаре «Как зарабатывать от 300 000 рублей на торговой недвижимости без инвестиций»</p>
+                        <p>Благодарим Вас за регистрацию на бесплатном вебинаре «Как заработать от 300 000 рублей на коммерческой недвижимости без инвестиций»</p>
                         <p>Письмо с Вашим бонусом уже направленно на Вашу почту, оно придет в течении 5 минут.</p>
                     </div>
 
@@ -80,7 +80,7 @@ if ( empty($url) ) { header('Location: /brokerige/'); }
                                         <img src="images/content/rasp.png" alt="" draggable="false">
                                     </div>
                                     <div class="rs-name">
-                                        Дата 19 октября 15.00(мск)
+                                        Дата 28 октября 15.00(мск)
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>

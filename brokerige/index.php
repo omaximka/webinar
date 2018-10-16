@@ -130,7 +130,7 @@
             </div>
             <div class="full-width text-right cc-content">
                 <div class="full-width cont-line-1">
-                    19 октября, <span>15.00 (мск)</span>
+                    28 октября, <span>15.00 (мск)</span>
                 </div>
                 <div class="full-width cont-line-2">
                     Бесплатный мастер-класс
@@ -302,7 +302,7 @@
         </div>
 
         <div class="full-width quest-sub-title">
-            19 октября, 15.00 (мск)
+            28 октября, 15.00 (мск)
         </div>
 
         <div class="quest-form-container">
@@ -392,7 +392,7 @@
                     </div>
 
                     <div class="full-width" style="margin-top: 20px; color: #EB5757;">
-                        Старт 19 октября, 15.00 (мск)
+                        Старт 28 октября, 15.00 (мск)
                     </div>
 
                 </div>
