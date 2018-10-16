@@ -12,7 +12,7 @@
 
     <meta name="format-detection" content="telephone=no">
 
-    <title>Брокер торговой недвижимости: ОНЛАЙН мастер-класс</title>
+    <title>PRO Бизнес на аренде коммерческой недвижимости: ОНЛАЙН мастер-класс</title>
 
     <link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 
@@ -346,7 +346,7 @@
         <div class="max-width">
             <div class="col-xs-6 video-block">
                 <div class="item-video">
-                    <img src="images/photo-1.png" alt="" draggable="false" style="max-width: 560px;">
+                    <img src="images/photo-1.jpg" alt="" draggable="false" style="max-width: 560px;">
                 </div>
             </div>
             <div class="col-xs-6 about-context">

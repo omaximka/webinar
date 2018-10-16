@@ -64,7 +64,7 @@ if ( empty($url) ) { header('Location: /brokerige/'); }
                     <div class="full-width middle-content">
 
                         <div class="video-block">
-                            <img src="../images/photo-1.png" alt="" draggable="false" style="height: 314px;">
+                            <img src="../images/photo-1.jpg" alt="" draggable="false" style="height: 314px;">
                         </div>
 
                         <div class="video-r-block">
