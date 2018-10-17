@@ -4,8 +4,8 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-    <meta name="keywords" content="курс брокеридж недвижимости, профессия брокер торговой недвижимости, онлайн обучение брокериджу недвижимости, бизнес-школа недвижимости">
-    <meta name="description" content="Онлайн обучение профессии брокер торговой недвижимости от бизнес-школы RBS">
+    <meta name="keywords" content="курс брокеридж недвижимости, профессия брокер коммерческой недвижимости, онлайн обучение брокериджу недвижимости, бизнес-школа недвижимости">
+    <meta name="description" content="Онлайн обучение профессии брокер коммерческой недвижимости от бизнес-школы RBS">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -39,7 +39,7 @@
             $(".digits").countdown({
                 image: "images/counting/digits.png",
                 /*startTime: "15:11:24:00",*/
-                endTime: new Date('10/19/18 15:00:00') /* дата = месяц, день, год */
+                endTime: new Date('10/28/18 15:00:00') /* дата = месяц, день, год */
             });
         });
     </script>
@@ -136,7 +136,7 @@
                     Бесплатный мастер-класс
                 </div>
                 <div class="full-width cont-line-3" style="color: #EB5757;">
-                    «Как заработать<br>от 300 000 рублей<br>на коммерческой<br>недвижимости без инвестиций»
+                    «Как заработать от 300 000 рублей<br>на коммерческой недвижимости<br>без инвестиций»
                 </div>
                 <div class="full-width cont-line-4">
                     2 часа пользы для риелторов,<br>агентов и брокеров!
@@ -206,7 +206,7 @@
                     <img src="images/free-say/1.png" alt="" draggable="false">
                 </div>
                 <div class="full-width icon-name">
-                    <b style="font-size: 20px;">10 шагов</b><br>по созданию высокого дохода
+                    <b style="font-size: 20px;">8 шагов</b><br>по созданию высокого дохода
                 </div>
             </div>
             <div class="fsc-item-inline">
@@ -267,7 +267,7 @@
             </div>
             <div class="fsc-item-middle">
                 <div class="fsc-m-num"><img src="images/check.png" alt="" draggable="false"></div>
-                <div class="fsc-m-name">В рынке торговой недвижимости мало сделок</div>
+                <div class="fsc-m-name">В рынке коммерческой недвижимости мало сделок</div>
                 <div class="clearfix"></div>
             </div>
             <div class="fsc-item-middle">
@@ -379,7 +379,7 @@
                 </div>
                 <div class="col-xs-7 no-pad r-context">
 
-                    <div class="full-width bonus-title">
+                    <div class="full-width bonus-title" style="padding-top: 30px;">
                         Бонус:
                     </div>
 
@@ -387,11 +387,11 @@
                         Регистрируйся сейчас и получи
                     </div>
 
-                    <div class="full-width" style="margin-top: 20px;">
+                    <div class="full-width" style="margin-top: 0; color: #EB5757;">
                         пошаговый бизнес–план
                     </div>
 
-                    <div class="full-width" style="margin-top: 20px; color: #EB5757;">
+                    <div class="full-width" style="margin-top: 20px;">
                         Старт 28 октября, 15.00 (мск)
                     </div>
 

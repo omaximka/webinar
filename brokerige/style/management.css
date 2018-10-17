@@ -129,8 +129,8 @@ a:focus, input:focus, textarea:focus, select:focus, button:focus { outline: none
 
 /* Block bonus */
 .bonus-container { margin-top: 60px; position: relative; z-index: 2; }
-.bonus-container .b-block { display: block; max-width: 1200px; margin: 0 auto; padding: 34px 30px; background: #ffffff; box-shadow: -4px 4px 29px rgba(0, 0, 0, 0.25); }
-.bonus-container .b-block .bonus-title { font-size: 30px; text-transform: uppercase; padding-left: 162px; }
+.bonus-container .b-block { display: block; max-width: 1200px; margin: 0 auto; padding: 0 30px; background: #ffffff; box-shadow: -4px 4px 29px rgba(0, 0, 0, 0.25); }
+.bonus-container .b-block .bonus-title { font-size: 30px; font-weight: 300; text-transform: uppercase; padding-left: 162px; }
 .bonus-container .b-block .lr-block { /*margin-top: 20px;*/ }
 .bonus-container .b-block .lr-block .l-context { text-align: center; }
 .bonus-container .b-block .lr-block .r-context { font-size: 30px; font-weight: bold; }
