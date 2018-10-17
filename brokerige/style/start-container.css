@@ -3,7 +3,7 @@
 
 .start-container .container-content { position: relative; }
 
-.start-container .container-content .cc-photo { display: inline-block; vertical-align: top; position: absolute; left: 146px; top: 104px; z-index: 1; }
+.start-container .container-content .cc-photo { display: inline-block; vertical-align: top; position: absolute; left: 116px; top: 14px; z-index: 1; }
 
 .start-container .container-content .cc-content { position: relative; z-index: 2; }
 

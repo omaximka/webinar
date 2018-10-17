@@ -39,7 +39,7 @@
             $(".digits").countdown({
                 image: "images/counting/digits.png",
                 /*startTime: "15:11:24:00",*/
-                endTime: new Date('10/28/18 15:00:00') /* дата = месяц, день, год */
+                endTime: new Date('10/19/18 15:00:00') /* дата = месяц, день, год */
             });
         });
     </script>
@@ -130,7 +130,7 @@
             </div>
             <div class="full-width text-right cc-content">
                 <div class="full-width cont-line-1">
-                    28 октября, <span>15.00 (мск)</span>
+                    19 октября, <span>15.00 (мск)</span>
                 </div>
                 <div class="full-width cont-line-2">
                     Бесплатный мастер-класс
@@ -302,7 +302,7 @@
         </div>
 
         <div class="full-width quest-sub-title">
-            28 октября, 15.00 (мск)
+            19 октября, 15.00 (мск)
         </div>
 
         <div class="quest-form-container">
@@ -360,7 +360,7 @@
                     - руководитель департамента брокериджа федеральной консалтинговой компании
                 </p>
                 <p>
-                    - консультант по обучению брокеров риелторский агентств и девелоперских компаний
+                    - консультант по обучению брокеров риелторских агентств и девелоперских компаний
                 </p>
             </div>
             <div class="clearfix"></div>
@@ -392,7 +392,7 @@
                     </div>
 
                     <div class="full-width" style="margin-top: 20px;">
-                        Старт 28 октября, 15.00 (мск)
+                        Старт 19 октября, 15.00 (мск)
                     </div>
 
                 </div>
