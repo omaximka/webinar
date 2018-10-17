@@ -223,7 +223,7 @@
                     <img src="images/free-say/3.png" alt="" draggable="false">
                 </div>
                 <div class="full-width icon-name">
-                    <b style="font-size: 20px;">2 железный аргумента</b>
+                    <b style="font-size: 20px;">2 железных аргумента</b>
                     <br>для получения лучших условий от заказчика
                 </div>
             </div>
