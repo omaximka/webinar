@@ -455,7 +455,11 @@
         <div class="footer-max">
             <img src="images/footer/logo-footer.png" alt="" draggable="false" class="ff-icon">
             <div class="ff-context">
-                <span class="f-copy">&copy;</span> <?php date_default_timezone_set('Asia/Yekaterinburg'); echo date('Y'); ?> Бизнес-школа недвижимости
+                <span class="f-copy">&copy;</span> <?php date_default_timezone_set('Asia/Yekaterinburg'); echo date('Y'); ?> Бизнес-школа недвижимости<br>
+                <span style="font-size: 14px;">
+                    ИНН 9710066718<br>
+                    ОГРН 1187746755668
+                </span>
             </div>
         </div>
     </div>
