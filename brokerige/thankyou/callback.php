@@ -3,6 +3,7 @@
     date_default_timezone_set('Asia/Yekaterinburg');
 
     $phone = getParam('phone');
+    $elem = getParam('visitor_uid'); // ключ для amoCRM
 
     if (isset($phone) && empty($phone)) $errors['phone'] = 'Не указан контактный телефон';
     if (isset($phone) && !empty($phone) && !validatePhone($phone)) $errors['phone'] = 'Недопустимый формат телефона';
@@ -22,6 +23,7 @@
 
     $a = true;
 
+require_once('sendamo.php'); //подключение скрипта интеграции с amocrm
 echo json_encode(array('res'=>$a?'ok':'errors', array('')));
 
 function getParam($name, $def = ''){return isset($_POST[$name]) ? $_POST[$name] : $def;}
