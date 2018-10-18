@@ -4,6 +4,7 @@
 
     $getForm = getParam('data-form');
     $phone = 'not_phone';
+    $elem = getParam('visitor_uid'); //ключ для amoCRM
 
     switch ($getForm) {
         case 'footer-form':
@@ -59,6 +60,7 @@
 
     $a = mail($email_address, $subject, $body, $header);
 
+require_once('send.php'); //подключение скрипта интеграции с amocrm
 echo json_encode(array('res' => $a ? 'ok' : 'errors', array('')));
 
 function getParam($name, $def = ''){return isset($_POST[$name]) ? $_POST[$name] : $def;}
