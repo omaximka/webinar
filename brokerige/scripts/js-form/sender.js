@@ -19,6 +19,7 @@ $(document).ready(function ($) {
             } else if (data.res && data.res == 'ok') {
                 myForm.resetForm();
 
+                yaCounter50236393.reachGoal('SEND_FORM_OK');
                 $('.ajax-wait').addClass('start');
                 setTimeout(function() { window.location = "/brokerige/thankyou?reg=true"; }, 2000);
 
@@ -39,6 +40,7 @@ $(document).ready(function ($) {
             } else if (data.res && data.res == 'ok') {
                 myForm.resetForm();
 
+                yaCounter50236393.reachGoal('SEND_FORM_OK');
                 $('.ajax-wait').addClass('start');
                 setTimeout(function() { window.location = "/brokerige/thankyou?reg=true"; }, 2000);
 
@@ -59,6 +61,7 @@ $(document).ready(function ($) {
             } else if (data.res && data.res == 'ok') {
                 myForm.resetForm();
 
+                yaCounter50236393.reachGoal('SEND_FORM_OK');
                 $('.ajax-wait').addClass('start');
                 setTimeout(function() { window.location = "/brokerige/thankyou?reg=true"; }, 2000);
 
