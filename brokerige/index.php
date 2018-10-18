@@ -514,5 +514,29 @@
 
 <script src="scripts/config.js"></script>
 
+<!--  amoCRM -->
+<script type="text/javascript" id="amo_pixel_identifier_js" async="async" src="https://piper.amocrm.com/pixel/js/identifier/pixel_identifier.js"></script>
+<script type="text/javascript">
+window.AMOPIXEL_IDENTIFIER_PARAMS = window.AMOPIXEL_IDENTIFIER_PARAMS || {};
+window.AMOPIXEL_IDENTIFIER_PARAMS.onload = function (pixel_identifier) {
+    var visitor_uid = pixel_identifier.getVisitorUid(); /* Получаем visitor_uid */
+    if (visitor_uid) {
+        $(document).ready(function(){
+            /* Записываем 'visitor_uid' во все формы */
+            $('form').each(function(){
+                var $elem = $(this).find('input[name=visitor_uid]');
+                /* если элемента нет, то добавим в форму скрытое поле */
+                if ($elem.length == 0) {
+                    $(this).append('<input type="hidden" name="visitor_uid" value="">');
+                    $elem = $(this).find('input[name=visitor_uid]');
+                }
+                /* установим в скрытом поле значение визитера */
+                $elem.val(visitor_uid);
+            });
+        });
+    }
+};
+</script>
+    
 </body>
 </html>
